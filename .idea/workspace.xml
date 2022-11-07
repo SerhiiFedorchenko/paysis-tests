@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20ac7495-ce70-4bef-bc13-a4485483a34d" name="Changes" comment="add" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/package.json" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2FDBGoQ8Z3NfjBo9WLzErCZ2h3y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.15.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.11.62&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/serhiifedorchenko/WebstormProjects/paysis-tests&quot;,
+    &quot;nodejs.mocha.mocha_node_package_dir&quot;: &quot;/Users/serhiifedorchenko/WebstormProjects/paysis-tests/node_modules/mocha&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettier.import.notification.dismissed&quot;: &quot;true&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/serhiifedorchenko/WebstormProjects/paysis-tests/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.test">
+    <configuration name="test" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Authentication" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/tests/auth.spec.js</test-file>
+      <test-names>
+        <name value="Authentication" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Transaction" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/tests/transaction.spec.js</test-file>
+      <test-names>
+        <name value="Transaction" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Transaction.Create" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/tests/transaction.spec.js</test-file>
+      <test-names>
+        <name value="Transaction" />
+        <name value="Create" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="User" type="mocha-javascript-test-runner" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/tests/user.spec.js</test-file>
+      <test-names>
+        <name value="User" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="User.Create" type="mocha-javascript-test-runner" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/tests/user.spec.js</test-file>
+      <test-names>
+        <name value="User" />
+        <name value="Create" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="User.Delete" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/tests/user.spec.js</test-file>
+      <test-names>
+        <name value="User" />
+        <name value="Delete" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="User.Get" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/tests/user.spec.js</test-file>
+      <test-names>
+        <name value="User" />
+        <name value="Get" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.Transaction" />
+        <item itemvalue="Mocha.Authentication" />
+        <item itemvalue="Mocha.Transaction.Create" />
+        <item itemvalue="Mocha.User.Get" />
+        <item itemvalue="Mocha.User.Delete" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20ac7495-ce70-4bef-bc13-a4485483a34d" name="Changes" comment="" />
+      <created>1664016680564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664016680564</updated>
+      <workItem from="1664016681649" duration="2276000" />
+      <workItem from="1664398418022" duration="2997000" />
+      <workItem from="1664557130963" duration="351000" />
+      <workItem from="1664615760907" duration="5672000" />
+      <workItem from="1664914228278" duration="2000" />
+      <workItem from="1664914238884" duration="849000" />
+      <workItem from="1664915345924" duration="2179000" />
+      <workItem from="1664917532400" duration="1399000" />
+      <workItem from="1665228878337" duration="6089000" />
+      <workItem from="1665511281600" duration="4165000" />
+      <workItem from="1665516468438" duration="803000" />
+      <workItem from="1665519332581" duration="2406000" />
+      <workItem from="1665522040281" duration="14000" />
+      <workItem from="1665824357286" duration="385000" />
+      <workItem from="1665824746092" duration="9000" />
+      <workItem from="1665824774641" duration="140000" />
+      <workItem from="1665824949568" duration="300000" />
+      <workItem from="1665825651582" duration="100000" />
+      <workItem from="1665826539326" duration="48000" />
+      <workItem from="1665827558678" duration="1035000" />
+      <workItem from="1665828856425" duration="124000" />
+      <workItem from="1665829154195" duration="77000" />
+      <workItem from="1665829320933" duration="760000" />
+      <workItem from="1665830265492" duration="12000" />
+      <workItem from="1665830343732" duration="1000" />
+      <workItem from="1665830849740" duration="15000" />
+      <workItem from="1665830899420" duration="76000" />
+      <workItem from="1665831185040" duration="1634000" />
+      <workItem from="1665832983145" duration="11000" />
+      <workItem from="1665833074303" duration="2120000" />
+      <workItem from="1666000449694" duration="139000" />
+      <workItem from="1666004946974" duration="514000" />
+      <workItem from="1666005480365" duration="73000" />
+      <workItem from="1666005584387" duration="98000" />
+      <workItem from="1666030310180" duration="157000" />
+      <workItem from="1666030789404" duration="595000" />
+      <workItem from="1666075249791" duration="8513000" />
+      <workItem from="1666087359988" duration="1295000" />
+      <workItem from="1666088662645" duration="3658000" />
+      <workItem from="1666101663373" duration="946000" />
+      <workItem from="1666102639098" duration="1064000" />
+      <workItem from="1666104064901" duration="2490000" />
+      <workItem from="1666271623572" duration="2000" />
+      <workItem from="1666527118845" duration="2313000" />
+      <workItem from="1666532802293" duration="965000" />
+      <workItem from="1666533777863" duration="145000" />
+      <workItem from="1666534131586" duration="231000" />
+      <workItem from="1666534383074" duration="243000" />
+      <workItem from="1666534845051" duration="1244000" />
+      <workItem from="1666536140460" duration="187000" />
+      <workItem from="1666536954304" duration="5220000" />
+      <workItem from="1666735011272" duration="6222000" />
+      <workItem from="1666741521019" duration="166000" />
+      <workItem from="1666807002219" duration="12358000" />
+      <workItem from="1666821821560" duration="1103000" />
+      <workItem from="1666885675549" duration="5755000" />
+      <workItem from="1666892791129" duration="293000" />
+      <workItem from="1667204683494" duration="7277000" />
+      <workItem from="1667304866599" duration="10047000" />
+      <workItem from="1667404945430" duration="580000" />
+      <workItem from="1667644517373" duration="2123000" />
+      <workItem from="1667844437111" duration="3298000" />
+      <workItem from="1667848638398" duration="14000" />
+      <workItem from="1667848659434" duration="18000" />
+    </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1667847098068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667847098068</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/paysis_tests$User.dat" NAME="User Coverage Results" MODIFIED="1666534311464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
